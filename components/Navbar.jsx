@@ -36,7 +36,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center cursor-pointer text-slate-200 text-2xl font-semibold px-3">
-            <Link href='/' className="flex gap-2 items-center"><img src="/logo.png" alt="" className="rounded-full h-10 max-w-10"/><h1>ApnaCareer</h1></Link>
+            <Link href='/' className="flex gap-2 items-center"><img src="/logo.png" alt="" className="rounded-full h-10 max-w-10"/><h1>Apna Career</h1></Link>
           </div>
           {/* Desktop Menu */}
           <div className="hidden lg:flex justify-center items-center gap-5 text-slate-200">
